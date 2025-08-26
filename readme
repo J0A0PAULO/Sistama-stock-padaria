@@ -1,9 +1,11 @@
-# Sistema de Estoque para Padaria
 
+# **Sistema de Estoque para Padaria**
 
-Esse projeto é um sistema sisple de estoque para uma padaria, desenvolvido em Java.
+### Esse projeto é um sistema simples de estoque para uma padaria, desenvolvido em Java.
 
-o arquivo `main.java` está reservado para teste e implementação do programa  
+### o arquivo **`main.java`** está reservado para teste e implementação do programa  
 
-o arquivo `PadariaStock.java` esta reservado para implementação relecionads ao gerenciadomento do estoque 
+### O arquivo **`Produtos.java`** esta reservado para construtor e get and sets dos atributos
+
+### o arquivo **`PadariaStock.java`** esta reservado para implementação relecionads ao gerencimanto do estoque 
 
