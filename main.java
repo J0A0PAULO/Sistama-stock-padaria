@@ -5,6 +5,8 @@ public class main {
 
     Produtos produtos = new Produtos(tamanhoStock);
 
-  }
+    EntradaPadariaStock padariaStock = new EntradaPadariaStock(tamanhoStock);
+
+  } 
 
 }
