@@ -7,6 +7,8 @@ public class main {
 
     EntradaPadariaStock padariaStock = new EntradaPadariaStock(tamanhoStock);
 
-  } 
+    padariaStock.cadastrarIngredientes(tamanhoStock);
+
+  }
 
 }

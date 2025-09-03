@@ -7,9 +7,8 @@
 
 
 
-### o arquivo **`EntradaPadariaStock.java`** esta reservado para implementação relecionads a entrada de dados do usuario aos vetores. Com as funcões criadas para entrada de dados de todos os vetores do programa sendo eles entradaNome(), entradaId(); entradaQnt(), entradaFornecedor() e entradaPreco();   
-
+### o arquivo **`EntradaPadariaStock.java`** esta reservado para implementação relecionads a entrada de dados do usuario aos vetores.
 
 ### O arquivo **`Produtos.java`** esta reservado para construtor e get and sets dos atributos
 
-### o arquvo **`verificarStock.java` esta reservado com finalizade de verificar dados ja inseridos no sistema
+### o arquvo **`verificarStock.java` esta reservado com finalizade de verificar dados ja inseridos no sistema=
